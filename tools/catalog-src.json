@@ -1,0 +1,1172 @@
+{
+ "composers": [
+  {
+   "id": "bach",
+   "name": "Бах",
+   "full": "Иоганн Себастьян Бах",
+   "years": "1685–1750",
+   "era": "baroque"
+  },
+  {
+   "id": "vivaldi",
+   "name": "Вивальди",
+   "full": "Антонио Вивальди",
+   "years": "1678–1741",
+   "era": "baroque"
+  },
+  {
+   "id": "handel",
+   "name": "Гендель",
+   "full": "Георг Фридрих Гендель",
+   "years": "1685–1759",
+   "era": "baroque"
+  },
+  {
+   "id": "pachelbel",
+   "name": "Пахельбель",
+   "full": "Иоганн Пахельбель",
+   "years": "1653–1706",
+   "era": "baroque"
+  },
+  {
+   "id": "mozart",
+   "name": "Моцарт",
+   "full": "Вольфганг Амадей Моцарт",
+   "years": "1756–1791",
+   "era": "classical"
+  },
+  {
+   "id": "haydn",
+   "name": "Гайдн",
+   "full": "Йозеф Гайдн",
+   "years": "1732–1809",
+   "era": "classical"
+  },
+  {
+   "id": "beethoven",
+   "name": "Бетховен",
+   "full": "Людвиг ван Бетховен",
+   "years": "1770–1827",
+   "era": "classical"
+  },
+  {
+   "id": "boccherini",
+   "name": "Боккерини",
+   "full": "Луиджи Боккерини",
+   "years": "1743–1805",
+   "era": "classical"
+  },
+  {
+   "id": "paganini",
+   "name": "Паганини",
+   "full": "Никколо Паганини",
+   "years": "1782–1840",
+   "era": "romantic"
+  },
+  {
+   "id": "rossini",
+   "name": "Россини",
+   "full": "Джоаккино Россини",
+   "years": "1792–1868",
+   "era": "romantic"
+  },
+  {
+   "id": "schubert",
+   "name": "Шуберт",
+   "full": "Франц Шуберт",
+   "years": "1797–1828",
+   "era": "romantic"
+  },
+  {
+   "id": "mendelssohn",
+   "name": "Мендельсон",
+   "full": "Феликс Мендельсон",
+   "years": "1809–1847",
+   "era": "romantic"
+  },
+  {
+   "id": "chopin",
+   "name": "Шопен",
+   "full": "Фридерик Шопен",
+   "years": "1810–1849",
+   "era": "romantic"
+  },
+  {
+   "id": "schumann",
+   "name": "Шуман",
+   "full": "Роберт Шуман",
+   "years": "1810–1856",
+   "era": "romantic"
+  },
+  {
+   "id": "liszt",
+   "name": "Лист",
+   "full": "Ференц Лист",
+   "years": "1811–1886",
+   "era": "romantic"
+  },
+  {
+   "id": "wagner",
+   "name": "Вагнер",
+   "full": "Рихард Вагнер",
+   "years": "1813–1883",
+   "era": "romantic"
+  },
+  {
+   "id": "verdi",
+   "name": "Верди",
+   "full": "Джузеппе Верди",
+   "years": "1813–1901",
+   "era": "romantic"
+  },
+  {
+   "id": "offenbach",
+   "name": "Оффенбах",
+   "full": "Жак Оффенбах",
+   "years": "1819–1880",
+   "era": "romantic"
+  },
+  {
+   "id": "smetana",
+   "name": "Сметана",
+   "full": "Бедржих Сметана",
+   "years": "1824–1884",
+   "era": "romantic"
+  },
+  {
+   "id": "strauss",
+   "name": "Штраус",
+   "full": "Иоганн Штраус (сын)",
+   "years": "1825–1899",
+   "era": "romantic"
+  },
+  {
+   "id": "brahms",
+   "name": "Брамс",
+   "full": "Иоганнес Брамс",
+   "years": "1833–1897",
+   "era": "romantic"
+  },
+  {
+   "id": "borodin",
+   "name": "Бородин",
+   "full": "Александр Бородин",
+   "years": "1833–1887",
+   "era": "romantic"
+  },
+  {
+   "id": "saint-saens",
+   "name": "Сен-Санс",
+   "full": "Камиль Сен-Санс",
+   "years": "1835–1921",
+   "era": "romantic"
+  },
+  {
+   "id": "bizet",
+   "name": "Бизе",
+   "full": "Жорж Бизе",
+   "years": "1838–1875",
+   "era": "romantic"
+  },
+  {
+   "id": "mussorgsky",
+   "name": "Мусоргский",
+   "full": "Модест Мусоргский",
+   "years": "1839–1881",
+   "era": "romantic"
+  },
+  {
+   "id": "tchaikovsky",
+   "name": "Чайковский",
+   "full": "Пётр Ильич Чайковский",
+   "years": "1840–1893",
+   "era": "romantic"
+  },
+  {
+   "id": "dvorak",
+   "name": "Дворжак",
+   "full": "Антонин Дворжак",
+   "years": "1841–1904",
+   "era": "romantic"
+  },
+  {
+   "id": "massenet",
+   "name": "Массне",
+   "full": "Жюль Массне",
+   "years": "1842–1912",
+   "era": "romantic"
+  },
+  {
+   "id": "grieg",
+   "name": "Григ",
+   "full": "Эдвард Григ",
+   "years": "1843–1907",
+   "era": "romantic"
+  },
+  {
+   "id": "rimsky",
+   "name": "Римский-Корсаков",
+   "full": "Николай Римский-Корсаков",
+   "years": "1844–1908",
+   "era": "romantic"
+  },
+  {
+   "id": "faure",
+   "name": "Форе",
+   "full": "Габриэль Форе",
+   "years": "1845–1924",
+   "era": "modern"
+  },
+  {
+   "id": "elgar",
+   "name": "Элгар",
+   "full": "Эдуард Элгар",
+   "years": "1857–1934",
+   "era": "modern"
+  },
+  {
+   "id": "puccini",
+   "name": "Пуччини",
+   "full": "Джакомо Пуччини",
+   "years": "1858–1924",
+   "era": "modern"
+  },
+  {
+   "id": "mahler",
+   "name": "Малер",
+   "full": "Густав Малер",
+   "years": "1860–1911",
+   "era": "modern"
+  },
+  {
+   "id": "debussy",
+   "name": "Дебюсси",
+   "full": "Клод Дебюсси",
+   "years": "1862–1918",
+   "era": "modern"
+  },
+  {
+   "id": "satie",
+   "name": "Сати",
+   "full": "Эрик Сати",
+   "years": "1866–1925",
+   "era": "modern"
+  },
+  {
+   "id": "rachmaninoff",
+   "name": "Рахманинов",
+   "full": "Сергей Рахманинов",
+   "years": "1873–1943",
+   "era": "modern"
+  },
+  {
+   "id": "holst",
+   "name": "Холст",
+   "full": "Густав Холст",
+   "years": "1874–1934",
+   "era": "modern"
+  },
+  {
+   "id": "ravel",
+   "name": "Равель",
+   "full": "Морис Равель",
+   "years": "1875–1937",
+   "era": "modern"
+  }
+ ],
+ "pieces": [
+  {
+   "id": "bach-toccata",
+   "composer": "bach",
+   "title": "Токката и фуга ре минор",
+   "part": "BWV 565",
+   "year": "ок. 1704",
+   "kind": "organ",
+   "tier": 1,
+   "file": "Toccata et Fugue BWV565.ogg",
+   "artist": "Ashtar Moïra"
+  },
+  {
+   "id": "bach-air",
+   "composer": "bach",
+   "title": "Ария на струне соль",
+   "part": "Оркестровая сюита № 3",
+   "year": "1731",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Air - Air Force Strings - United States Air Force Band.mp3",
+   "artist": "United States Air Force Band, Air Force Strings"
+  },
+  {
+   "id": "bach-cello-1",
+   "composer": "bach",
+   "title": "Сюита для виолончели № 1",
+   "part": "Прелюдия",
+   "year": "ок. 1720",
+   "kind": "solo",
+   "tier": 1,
+   "file": "Bach - Cello Suite no. 1 in G major, BWV 1007 - I. Prélude.ogg",
+   "artist": ""
+  },
+  {
+   "id": "bach-brandenburg-3",
+   "composer": "bach",
+   "title": "Бранденбургский концерт № 3",
+   "part": "I. Allegro",
+   "year": "1721",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "Bach - Brandenburg Concerto No. 3 - 1. Allegro.ogg",
+   "artist": ""
+  },
+  {
+   "id": "bach-wtc-1",
+   "composer": "bach",
+   "title": "Прелюдия до мажор",
+   "part": "Хорошо темперированный клавир, том I",
+   "year": "1722",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Kimiko Ishizaka - Bach - Well-Tempered Clavier, Book 1 - 01 Prelude No. 1 in C major, BWV 846.ogg",
+   "artist": "Kimiko Ishizaka"
+  },
+  {
+   "id": "bach-badinerie",
+   "composer": "bach",
+   "title": "Шутка",
+   "part": "Оркестровая сюита № 2",
+   "year": "1739",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "Bach, Johann Sebastian - Suite No.2 in B Minor - X. Badinerie.ogg"
+  },
+  {
+   "id": "bach-jesu",
+   "composer": "bach",
+   "title": "Хорал «Иисус, радость моя»",
+   "part": "Кантата BWV 147",
+   "year": "1723",
+   "kind": "vocal",
+   "tier": 3,
+   "file": "Bach, BWV 147, 10. Jesus bleibet meine Freude.ogg"
+  },
+  {
+   "id": "bach-goldberg",
+   "composer": "bach",
+   "title": "Гольдберг-вариации",
+   "part": "Ария",
+   "year": "1741",
+   "kind": "piano",
+   "tier": 3,
+   "file": "Goldberg Variations 01 Aria.ogg",
+   "artist": "Kimiko Ishizaka"
+  },
+  {
+   "id": "vivaldi-spring",
+   "composer": "vivaldi",
+   "title": "Времена года: Весна",
+   "part": "I. Allegro",
+   "year": "1725",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Vivaldi - Four Seasons 1 Spring mvt 1 Allegro - John Harrison violin.oga",
+   "artist": "John Harrison (скрипка)"
+  },
+  {
+   "id": "vivaldi-summer",
+   "composer": "vivaldi",
+   "title": "Времена года: Лето",
+   "part": "III. Presto «Гроза»",
+   "year": "1725",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Vivaldi - Four Seasons 2 Summer mvt 3 Presto - John Harrison violin.oga",
+   "artist": "John Harrison (скрипка)"
+  },
+  {
+   "id": "vivaldi-winter",
+   "composer": "vivaldi",
+   "title": "Времена года: Зима",
+   "part": "I. Allegro non molto",
+   "year": "1725",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "Vivaldi - Four Seasons 4 Winter mvt 1 Allegro non molto - John Harrison violin.oga",
+   "artist": "John Harrison (скрипка)"
+  },
+  {
+   "id": "handel-hallelujah",
+   "composer": "handel",
+   "title": "Аллилуйя",
+   "part": "Оратория «Мессия»",
+   "year": "1741",
+   "kind": "vocal",
+   "tier": 1,
+   "file": "Handel - messiah - 44 hallelujah.ogg",
+   "artist": "MIT Concert Choir, дирижёр William C. Cutter"
+  },
+  {
+   "id": "handel-sarabande",
+   "composer": "handel",
+   "title": "Сарабанда",
+   "part": "Сюита ре минор, HWV 437",
+   "year": "1733",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Handel - Suite Vol. 2 No. 4 in D minor HWV 437 - 4. Sarabande.oga",
+   "artist": "Edward Cree"
+  },
+  {
+   "id": "handel-hornpipe",
+   "composer": "handel",
+   "title": "Музыка на воде",
+   "part": "Alla Hornpipe",
+   "year": "1717",
+   "kind": "orchestra",
+   "tier": 3,
+   "file": "Handel's Water Music - 12. Alla hornpipe - Chamber Orchestra - United States Marine Band.opus",
+   "artist": "United States Marine Band, Chamber Orchestra"
+  },
+  {
+   "id": "pachelbel-canon",
+   "composer": "pachelbel",
+   "title": "Канон ре мажор",
+   "year": "ок. 1680",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Canon in D Major (ISRC USUAN1100301).mp3"
+  },
+  {
+   "id": "mozart-nachtmusik",
+   "composer": "mozart",
+   "title": "Маленькая ночная серенада",
+   "part": "I. Allegro",
+   "year": "1787",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Mozart - Eine kleine Nachtmusik - 1. Allegro.ogg",
+   "artist": ""
+  },
+  {
+   "id": "mozart-sym40",
+   "composer": "mozart",
+   "title": "Симфония № 40",
+   "part": "I. Molto allegro",
+   "year": "1788",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Mozart - Symphony No. 40 in G minor, K550 - I. Molto allegro (Musopen Symphony).flac",
+   "artist": "Musopen Symphony"
+  },
+  {
+   "id": "mozart-lacrimosa",
+   "composer": "mozart",
+   "title": "Реквием",
+   "part": "Lacrimosa",
+   "year": "1791",
+   "kind": "vocal",
+   "tier": 1,
+   "file": "Mozart - Requiem (Krips) - VIII. Lacrimosa.flac",
+   "artist": "дирижёр Josef Krips"
+  },
+  {
+   "id": "mozart-turca",
+   "composer": "mozart",
+   "title": "Турецкий марш",
+   "part": "Соната № 11, III. Rondo alla turca",
+   "year": "1783",
+   "kind": "piano",
+   "tier": 1,
+   "file": "Rondo Alla Turka.ogg",
+   "artist": ""
+  },
+  {
+   "id": "mozart-figaro",
+   "composer": "mozart",
+   "title": "Свадьба Фигаро",
+   "part": "Увертюра",
+   "year": "1786",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "Mozart - Le nozze di Figaro, K492 - Overture (Musopen Symphony).flac",
+   "artist": "Musopen Symphony"
+  },
+  {
+   "id": "mozart-queen",
+   "composer": "mozart",
+   "title": "Ария Царицы ночи",
+   "part": "Опера «Волшебная флейта»",
+   "year": "1791",
+   "kind": "vocal",
+   "tier": 2,
+   "file": "Der Hoelle Rache.ogg"
+  },
+  {
+   "id": "mozart-pc21",
+   "composer": "mozart",
+   "title": "Концерт для фортепиано № 21",
+   "part": "II. Andante",
+   "year": "1785",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "W. A. Mozart - Andante from Piano Concerto K 467 b. 1-23 fading.ogg",
+   "artist": ""
+  },
+  {
+   "id": "mozart-sym25",
+   "composer": "mozart",
+   "title": "Симфония № 25",
+   "part": "I. Allegro con brio",
+   "year": "1773",
+   "kind": "orchestra",
+   "tier": 3,
+   "file": "W. A. Mozart - Symphony n. 25 - I. Allegro con brio.ogg",
+   "artist": ""
+  },
+  {
+   "id": "haydn-surprise",
+   "composer": "haydn",
+   "title": "Симфония № 94 «Сюрприз»",
+   "part": "II. Andante",
+   "year": "1791",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "Haydn; Symphony No. 94 \"Surprise\", 2. Andante.ogg"
+  },
+  {
+   "id": "haydn-trumpet",
+   "composer": "haydn",
+   "title": "Концерт для трубы",
+   "part": "III. Allegro",
+   "year": "1796",
+   "kind": "orchestra",
+   "tier": 3,
+   "file": "Real Filharmonía de Galicia - Haydn's Trumpet Concerto in E-flat major, Hob.VIIe-1 - III. Finale allegro.ogg"
+  },
+  {
+   "id": "beethoven-sym5",
+   "composer": "beethoven",
+   "title": "Симфония № 5",
+   "part": "I. Allegro con brio",
+   "year": "1808",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Ludwig van Beethoven - symphony no. 5 in c minor, op. 67 - i. allegro con brio.ogg",
+   "artist": ""
+  },
+  {
+   "id": "beethoven-moonlight",
+   "composer": "beethoven",
+   "title": "Лунная соната",
+   "part": "I. Adagio sostenuto",
+   "year": "1801",
+   "kind": "piano",
+   "tier": 1,
+   "file": "Ludwig van Beethoven - sonata no. 14 in c sharp minor 'moonlight', op. 27 no. 2 - i. adagio sostenuto.ogg",
+   "artist": ""
+  },
+  {
+   "id": "beethoven-elise",
+   "composer": "beethoven",
+   "title": "К Элизе",
+   "year": "1810",
+   "kind": "piano",
+   "tier": 1,
+   "file": "For Elise (Für Elise) Beethoven JMC Han.ogg",
+   "artist": "Jason M. C. Han"
+  },
+  {
+   "id": "beethoven-ode",
+   "composer": "beethoven",
+   "title": "Ода к радости",
+   "part": "Симфония № 9, финал (переложение для оркестра)",
+   "year": "1824",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Ode to Joy - Concert Band - United States Air Force Band of the Rockies.mp3",
+   "artist": "United States Air Force Band of the Rockies"
+  },
+  {
+   "id": "beethoven-pathetique",
+   "composer": "beethoven",
+   "title": "Патетическая соната",
+   "part": "II. Adagio cantabile",
+   "year": "1798",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Beethoven, Sonata No. 8 in C Minor Pathetique, Op. 13 - II. Adagio cantabile.ogg",
+   "artist": ""
+  },
+  {
+   "id": "beethoven-moonlight-3",
+   "composer": "beethoven",
+   "title": "Лунная соната",
+   "part": "III. Presto agitato",
+   "year": "1801",
+   "kind": "piano",
+   "tier": 3,
+   "file": "Beethoven Moonlight 3rd movement.ogg",
+   "artist": ""
+  },
+  {
+   "id": "paganini-caprice-24",
+   "composer": "paganini",
+   "title": "Каприс № 24",
+   "year": "1817",
+   "kind": "solo",
+   "tier": 2,
+   "file": "Paganini Caprice-24.ogg"
+  },
+  {
+   "id": "rossini-tell",
+   "composer": "rossini",
+   "title": "Вильгельм Телль",
+   "part": "Увертюра, финал",
+   "year": "1829",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "Gioachino Rossini, William Tell Overture (military band version, 2000).ogg",
+   "artist": "United States Marine Band",
+   "hook": 480
+  },
+  {
+   "id": "schubert-ave-maria",
+   "composer": "schubert",
+   "title": "Ave Maria",
+   "part": "Третья песня Эллен",
+   "year": "1825",
+   "kind": "vocal",
+   "tier": 1,
+   "file": "Franz Schubert - Ellens dritter Gesang.oga",
+   "artist": ""
+  },
+  {
+   "id": "schubert-serenade",
+   "composer": "schubert",
+   "title": "Серенада",
+   "part": "Цикл «Лебединая песня»",
+   "year": "1828",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Ständchen (Schubert)-Serenade D957 No.4, Player Jason, Han.ogg"
+  },
+  {
+   "id": "mendelssohn-wedding",
+   "composer": "mendelssohn",
+   "title": "Свадебный марш",
+   "part": "Музыка к «Сну в летнюю ночь»",
+   "year": "1842",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "A Midsummer Night's Dream Op. 61 Wedding March (Mendelssohn) European Archive.ogg"
+  },
+  {
+   "id": "chopin-nocturne",
+   "composer": "chopin",
+   "title": "Ноктюрн ми-бемоль мажор",
+   "part": "Op. 9 № 2",
+   "year": "1832",
+   "kind": "piano",
+   "tier": 1,
+   "file": "Chopin - Nocturne No. 2 in E-flat major, Op. 9 No. 2 (Frank Levy).flac",
+   "artist": "Frank Levy"
+  },
+  {
+   "id": "chopin-funeral",
+   "composer": "chopin",
+   "title": "Траурный марш",
+   "part": "Соната № 2, III",
+   "year": "1839",
+   "kind": "piano",
+   "tier": 1,
+   "file": "Frederic Chopin Piano Sonata No.2 in B flat minor Op35 - III Marche Funebre.ogg",
+   "artist": ""
+  },
+  {
+   "id": "chopin-fantaisie",
+   "composer": "chopin",
+   "title": "Фантазия-экспромт",
+   "part": "Op. 66",
+   "year": "1834",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Chopin - Impromptu No. 4 in C-sharp minor, Op. 66 'Fantaisie-Impromptu' (Frank Levy).flac",
+   "artist": "Frank Levy"
+  },
+  {
+   "id": "chopin-revolutionary",
+   "composer": "chopin",
+   "title": "Революционный этюд",
+   "part": "Op. 10 № 12",
+   "year": "1831",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Chopin - 12 Études, Op. 10 - No. 12 in C minor 'Revolutionary' (Edward Neeman).flac",
+   "artist": "Edward Neeman"
+  },
+  {
+   "id": "chopin-minute",
+   "composer": "chopin",
+   "title": "Вальс-минутка",
+   "part": "Op. 64 № 1",
+   "year": "1847",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Chopin - Waltz No. 6 in D-flat major, Op. 64, No. 1 'Minute' (Olga Gurevich).flac",
+   "artist": "Olga Gurevich"
+  },
+  {
+   "id": "chopin-raindrop",
+   "composer": "chopin",
+   "title": "Прелюдия «Капли дождя»",
+   "part": "Op. 28 № 15",
+   "year": "1839",
+   "kind": "piano",
+   "tier": 3,
+   "file": "Chopin - Prelude in D-flat Op-28 No-15 (Raindrop) (Piano Performance by eldüendesüarez).wav",
+   "artist": "eldüendesüarez"
+  },
+  {
+   "id": "schumann-traumerei",
+   "composer": "schumann",
+   "title": "Грёзы",
+   "part": "Цикл «Детские сцены»",
+   "year": "1838",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Robert Schumann - scenes from childhood, op. 15 - vii. dreaming.ogg",
+   "artist": "исполнитель указан на Musopen"
+  },
+  {
+   "id": "liszt-liebestraum",
+   "composer": "liszt",
+   "title": "Грёзы любви № 3",
+   "year": "1850",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Franz Liszt - Liebestraum, Ab Major.ogg",
+   "artist": ""
+  },
+  {
+   "id": "liszt-rhapsody-2",
+   "composer": "liszt",
+   "title": "Венгерская рапсодия № 2",
+   "year": "1847",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Hungarian Rhapsody No 2.ogg",
+   "artist": ""
+  },
+  {
+   "id": "liszt-campanella",
+   "composer": "liszt",
+   "title": "Кампанелла",
+   "part": "Этюд по Паганини № 3",
+   "year": "1851",
+   "kind": "piano",
+   "tier": 3,
+   "file": "Liszt-La Campanella-Greiss.ogg",
+   "artist": ""
+  },
+  {
+   "id": "wagner-valkyries",
+   "composer": "wagner",
+   "title": "Полёт валькирий",
+   "part": "Опера «Валькирия»",
+   "year": "1856",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Richard Wagner - Ride of the Valkyries.ogg",
+   "artist": ""
+  },
+  {
+   "id": "wagner-bridal",
+   "composer": "wagner",
+   "title": "Свадебный хор",
+   "part": "Опера «Лоэнгрин»",
+   "year": "1850",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "Wagner Bridal Chorus (ISRC USUAN1100021).mp3"
+  },
+  {
+   "id": "verdi-donna",
+   "composer": "verdi",
+   "title": "Песенка Герцога",
+   "part": "Опера «Риголетто»",
+   "year": "1851",
+   "kind": "vocal",
+   "tier": 1,
+   "file": "La Donna E Mobile Rigoletto.ogg",
+   "artist": ""
+  },
+  {
+   "id": "offenbach-cancan",
+   "composer": "offenbach",
+   "title": "Канкан",
+   "part": "Оперетта «Орфей в аду»",
+   "year": "1858",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Jacques Offenbach - Galop Infernal from Orpheus in the Underworld (Can Can) (1858).ogg"
+  },
+  {
+   "id": "smetana-vltava",
+   "composer": "smetana",
+   "title": "Влтава",
+   "part": "Цикл «Моя родина»",
+   "year": "1874",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "Smetana, Má vlast - Vltava - The Moldau.ogg",
+   "hook": 62
+  },
+  {
+   "id": "strauss-danube",
+   "composer": "strauss",
+   "title": "На прекрасном голубом Дунае",
+   "year": "1866",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "\"An der schönen, blauen Donau\" performed by the U.S. Marine Band.mp3",
+   "artist": "United States Marine Band",
+   "hook": 100
+  },
+  {
+   "id": "brahms-hungarian-5",
+   "composer": "brahms",
+   "title": "Венгерский танец № 5",
+   "year": "1869",
+   "kind": "piano",
+   "tier": 1,
+   "file": "Hungarian Dances - No. 5 in F Sharp Minor (Collections in piano) JMC,Han.ogg"
+  },
+  {
+   "id": "brahms-lullaby",
+   "composer": "brahms",
+   "title": "Колыбельная",
+   "part": "Op. 49 № 4",
+   "year": "1868",
+   "kind": "vocal",
+   "tier": 2,
+   "file": "Johannes Brahms ninna nanna op 49 n 4.ogg"
+  },
+  {
+   "id": "brahms-sym3",
+   "composer": "brahms",
+   "title": "Симфония № 3",
+   "part": "III. Poco allegretto",
+   "year": "1883",
+   "kind": "orchestra",
+   "tier": 3,
+   "file": "Brahms, Symphony No. 3 in F Major, Op. 90 - III. Poco allegretto.ogg"
+  },
+  {
+   "id": "saint-saens-swan",
+   "composer": "saint-saens",
+   "title": "Лебедь",
+   "part": "Сюита «Карнавал животных»",
+   "year": "1886",
+   "kind": "solo",
+   "tier": 1,
+   "file": "Judith Bokor plays Le Cygne by Saint-Saëns.flac"
+  },
+  {
+   "id": "saint-saens-macabre",
+   "composer": "saint-saens",
+   "title": "Пляска смерти",
+   "year": "1874",
+   "kind": "orchestra",
+   "tier": 3,
+   "file": "Saint-Saëns - Danse macabre (Fourestier, 1953).flac",
+   "artist": "дирижёр Louis Fourestier, запись 1953 г."
+  },
+  {
+   "id": "bizet-habanera",
+   "composer": "bizet",
+   "title": "Хабанера",
+   "part": "Опера «Кармен»",
+   "year": "1875",
+   "kind": "vocal",
+   "tier": 1,
+   "file": "Habanera (ISRC USUAN1100656).mp3",
+   "artist": "Kevin MacLeod; вокал — Jenny Lee Mitchell"
+  },
+  {
+   "id": "bizet-toreador",
+   "composer": "bizet",
+   "title": "Куплеты Тореадора",
+   "part": "Опера «Кармен»",
+   "year": "1875",
+   "kind": "vocal",
+   "tier": 2,
+   "file": "Bizet - Carmen - Toreador Song (French, Musopen).ogg"
+  },
+  {
+   "id": "mussorgsky-bald",
+   "composer": "mussorgsky",
+   "title": "Ночь на Лысой горе",
+   "year": "1867",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "Modest Mussorgsky - night on bald mountain.ogg",
+   "artist": ""
+  },
+  {
+   "id": "tchaikovsky-swan",
+   "composer": "tchaikovsky",
+   "title": "Лебединое озеро",
+   "part": "Сцена (тема лебедей)",
+   "year": "1876",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Tchaikovsky Swan Lake Op.20 No.10. Scène.ogg",
+   "artist": ""
+  },
+  {
+   "id": "tchaikovsky-sugar",
+   "composer": "tchaikovsky",
+   "title": "Танец феи Драже",
+   "part": "Балет «Щелкунчик»",
+   "year": "1892",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Tchaikovsky - Dance of the Sugar Plum Fairy - The Nutcracker.ogg",
+   "artist": ""
+  },
+  {
+   "id": "tchaikovsky-pc1",
+   "composer": "tchaikovsky",
+   "title": "Концерт для фортепиано № 1",
+   "part": "I. Allegro non troppo",
+   "year": "1875",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Tchaikovsky, Concerto No.1 in B-flat minor Op.23, I. Allegro.ogg",
+   "artist": ""
+  },
+  {
+   "id": "tchaikovsky-flowers",
+   "composer": "tchaikovsky",
+   "title": "Вальс цветов",
+   "part": "Балет «Щелкунчик»",
+   "year": "1892",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "P.I. Tchaikovsky's Waltz of the Flowers Performed by The U.S. Army Band, c. 2019.mp3",
+   "artist": "The United States Army Band",
+   "hook": 70
+  },
+  {
+   "id": "dvorak-humoresque",
+   "composer": "dvorak",
+   "title": "Юмореска № 7",
+   "year": "1894",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Dvořák - Humoresque Op. 101 No. 7.ogg",
+   "artist": ""
+  },
+  {
+   "id": "dvorak-sym9",
+   "composer": "dvorak",
+   "title": "Симфония № 9 «Из Нового Света»",
+   "part": "II. Largo",
+   "year": "1893",
+   "kind": "orchestra",
+   "tier": 3,
+   "file": "Antonin Dvorak - symphony no. 9 in e minor 'from the new world', op. 95 - ii. largo.ogg",
+   "artist": ""
+  },
+  {
+   "id": "massenet-meditation",
+   "composer": "massenet",
+   "title": "Размышление",
+   "part": "Опера «Таис»",
+   "year": "1894",
+   "kind": "solo",
+   "tier": 3,
+   "file": "Meditation from Thais - Bomsori Kim.opus",
+   "artist": "Bomsori Kim (скрипка), Premiere Performances of Hong Kong"
+  },
+  {
+   "id": "grieg-mountain-king",
+   "composer": "grieg",
+   "title": "В пещере горного короля",
+   "part": "Сюита «Пер Гюнт»",
+   "year": "1875",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Musopen - In the Hall Of The Mountain King.ogg",
+   "artist": "Musopen Symphony Orchestra"
+  },
+  {
+   "id": "grieg-morning",
+   "composer": "grieg",
+   "title": "Утро",
+   "part": "Сюита «Пер Гюнт»",
+   "year": "1875",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Musopen - Morning.ogg",
+   "artist": "Musopen Symphony Orchestra"
+  },
+  {
+   "id": "rimsky-bumblebee",
+   "composer": "rimsky",
+   "title": "Полёт шмеля",
+   "part": "Опера «Сказка о царе Салтане»",
+   "year": "1900",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Rimsky-Korsakov - flight of the bumblebee.oga",
+   "artist": "United States Army Band"
+  },
+  {
+   "id": "elgar-pomp",
+   "composer": "elgar",
+   "title": "Торжественный и церемониальный марш № 1",
+   "year": "1901",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "ELGAR Pomp and Circumstance in D, Opus 39, No. 1 - United States Marine Band.mp3",
+   "hook": 118
+  },
+  {
+   "id": "mahler-adagietto",
+   "composer": "mahler",
+   "title": "Симфония № 5",
+   "part": "IV. Adagietto",
+   "year": "1902",
+   "kind": "orchestra",
+   "tier": 3,
+   "file": "Mahler Symphony No. 5, IV. Adagietto.ogg"
+  },
+  {
+   "id": "debussy-clair",
+   "composer": "debussy",
+   "title": "Лунный свет",
+   "part": "Бергамасская сюита",
+   "year": "1905",
+   "kind": "piano",
+   "tier": 1,
+   "file": "Clair de lune (Claude Debussy) Suite bergamasque.ogg",
+   "artist": ""
+  },
+  {
+   "id": "debussy-arabesque",
+   "composer": "debussy",
+   "title": "Арабеска № 1",
+   "year": "1891",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Claude Debussy - Première Arabesque - Patrizia Prati.ogg",
+   "artist": "Patrizia Prati"
+  },
+  {
+   "id": "debussy-faune",
+   "composer": "debussy",
+   "title": "Послеполуденный отдых фавна",
+   "part": "Прелюдия",
+   "year": "1894",
+   "kind": "orchestra",
+   "tier": 3,
+   "file": "Columbia-dwx1550ix-c-wlx1289.ogg",
+   "artist": ""
+  },
+  {
+   "id": "debussy-fille",
+   "composer": "debussy",
+   "title": "Девушка с волосами цвета льна",
+   "part": "Прелюдии, тетрадь I",
+   "year": "1910",
+   "kind": "piano",
+   "tier": 3,
+   "file": "Claude Debussy - Préludes (Livre I) - VIII. La Fille aux cheveux de lin (Marcelle Meyer, 1956).flac",
+   "artist": "Marcelle Meyer"
+  },
+  {
+   "id": "satie-gymnopedie",
+   "composer": "satie",
+   "title": "Гимнопедия № 1",
+   "year": "1888",
+   "kind": "piano",
+   "tier": 1,
+   "file": "Erik Satie - gymnopedies - la 1 ere. lent et douloureux.ogg"
+  },
+  {
+   "id": "satie-gnossienne",
+   "composer": "satie",
+   "title": "Гносиенна № 1",
+   "year": "1890",
+   "kind": "piano",
+   "tier": 2,
+   "file": "Satie - Gnossienne 1.ogg",
+   "artist": "La Pianista"
+  },
+  {
+   "id": "rachmaninoff-prelude",
+   "composer": "rachmaninoff",
+   "title": "Прелюдия до-диез минор",
+   "part": "Op. 3 № 2",
+   "year": "1892",
+   "kind": "piano",
+   "tier": 1,
+   "file": "Prélude en Do dièse mineur de Rachmaninov op. 3 (Morceaux de fantaisie).ogg",
+   "artist": ""
+  },
+  {
+   "id": "rachmaninoff-pc2",
+   "composer": "rachmaninoff",
+   "title": "Концерт для фортепиано № 2",
+   "part": "I. Moderato",
+   "year": "1901",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "Sergei Rachmaninoff - piano concerto no. 2 in c minor, op. 18 - i. moderato.ogg",
+   "artist": ""
+  },
+  {
+   "id": "holst-mars",
+   "composer": "holst",
+   "title": "Планеты: Марс",
+   "part": "Вестник войны",
+   "year": "1916",
+   "kind": "orchestra",
+   "tier": 2,
+   "file": "Holst- mars.ogg",
+   "artist": "United States Air Force Band"
+  },
+  {
+   "id": "holst-jupiter",
+   "composer": "holst",
+   "title": "Планеты: Юпитер",
+   "part": "Приносящий радость",
+   "year": "1916",
+   "kind": "orchestra",
+   "tier": 3,
+   "file": "Holst The Planets Jupiter.ogg",
+   "artist": "United States Air Force Band"
+  },
+  {
+   "id": "ravel-bolero",
+   "composer": "ravel",
+   "title": "Болеро",
+   "year": "1928",
+   "kind": "orchestra",
+   "tier": 1,
+   "file": "Boléro de Ravel, Orchestre de l'Association des Concerts Lamoureux, 1935, 1.mp3",
+   "artist": "Orchestre de l'Association des Concerts Lamoureux, запись 1935 г."
+  },
+  {
+   "id": "ravel-pavane",
+   "composer": "ravel",
+   "title": "Павана на смерть инфанты",
+   "year": "1899",
+   "kind": "piano",
+   "tier": 3,
+   "file": "Maurice Ravel - Thérèse Dussaut - Pavane pour une infante défunte.ogg",
+   "artist": "Thérèse Dussaut"
+  }
+ ]
+}

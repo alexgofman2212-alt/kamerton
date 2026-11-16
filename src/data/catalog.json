@@ -1,0 +1,2106 @@
+{
+ "composers": [
+  {
+   "id": "bach",
+   "name": "Бах",
+   "full": "Иоганн Себастьян Бах",
+   "years": "1685–1750",
+   "era": "baroque"
+  },
+  {
+   "id": "vivaldi",
+   "name": "Вивальди",
+   "full": "Антонио Вивальди",
+   "years": "1678–1741",
+   "era": "baroque"
+  },
+  {
+   "id": "handel",
+   "name": "Гендель",
+   "full": "Георг Фридрих Гендель",
+   "years": "1685–1759",
+   "era": "baroque"
+  },
+  {
+   "id": "pachelbel",
+   "name": "Пахельбель",
+   "full": "Иоганн Пахельбель",
+   "years": "1653–1706",
+   "era": "baroque"
+  },
+  {
+   "id": "mozart",
+   "name": "Моцарт",
+   "full": "Вольфганг Амадей Моцарт",
+   "years": "1756–1791",
+   "era": "classical"
+  },
+  {
+   "id": "haydn",
+   "name": "Гайдн",
+   "full": "Йозеф Гайдн",
+   "years": "1732–1809",
+   "era": "classical"
+  },
+  {
+   "id": "beethoven",
+   "name": "Бетховен",
+   "full": "Людвиг ван Бетховен",
+   "years": "1770–1827",
+   "era": "classical"
+  },
+  {
+   "id": "paganini",
+   "name": "Паганини",
+   "full": "Никколо Паганини",
+   "years": "1782–1840",
+   "era": "romantic"
+  },
+  {
+   "id": "rossini",
+   "name": "Россини",
+   "full": "Джоаккино Россини",
+   "years": "1792–1868",
+   "era": "romantic"
+  },
+  {
+   "id": "schubert",
+   "name": "Шуберт",
+   "full": "Франц Шуберт",
+   "years": "1797–1828",
+   "era": "romantic"
+  },
+  {
+   "id": "mendelssohn",
+   "name": "Мендельсон",
+   "full": "Феликс Мендельсон",
+   "years": "1809–1847",
+   "era": "romantic"
+  },
+  {
+   "id": "chopin",
+   "name": "Шопен",
+   "full": "Фридерик Шопен",
+   "years": "1810–1849",
+   "era": "romantic"
+  },
+  {
+   "id": "schumann",
+   "name": "Шуман",
+   "full": "Роберт Шуман",
+   "years": "1810–1856",
+   "era": "romantic"
+  },
+  {
+   "id": "liszt",
+   "name": "Лист",
+   "full": "Ференц Лист",
+   "years": "1811–1886",
+   "era": "romantic"
+  },
+  {
+   "id": "wagner",
+   "name": "Вагнер",
+   "full": "Рихард Вагнер",
+   "years": "1813–1883",
+   "era": "romantic"
+  },
+  {
+   "id": "verdi",
+   "name": "Верди",
+   "full": "Джузеппе Верди",
+   "years": "1813–1901",
+   "era": "romantic"
+  },
+  {
+   "id": "offenbach",
+   "name": "Оффенбах",
+   "full": "Жак Оффенбах",
+   "years": "1819–1880",
+   "era": "romantic"
+  },
+  {
+   "id": "smetana",
+   "name": "Сметана",
+   "full": "Бедржих Сметана",
+   "years": "1824–1884",
+   "era": "romantic"
+  },
+  {
+   "id": "strauss",
+   "name": "Штраус",
+   "full": "Иоганн Штраус (сын)",
+   "years": "1825–1899",
+   "era": "romantic"
+  },
+  {
+   "id": "brahms",
+   "name": "Брамс",
+   "full": "Иоганнес Брамс",
+   "years": "1833–1897",
+   "era": "romantic"
+  },
+  {
+   "id": "saint-saens",
+   "name": "Сен-Санс",
+   "full": "Камиль Сен-Санс",
+   "years": "1835–1921",
+   "era": "romantic"
+  },
+  {
+   "id": "bizet",
+   "name": "Бизе",
+   "full": "Жорж Бизе",
+   "years": "1838–1875",
+   "era": "romantic"
+  },
+  {
+   "id": "mussorgsky",
+   "name": "Мусоргский",
+   "full": "Модест Мусоргский",
+   "years": "1839–1881",
+   "era": "romantic"
+  },
+  {
+   "id": "tchaikovsky",
+   "name": "Чайковский",
+   "full": "Пётр Ильич Чайковский",
+   "years": "1840–1893",
+   "era": "romantic"
+  },
+  {
+   "id": "dvorak",
+   "name": "Дворжак",
+   "full": "Антонин Дворжак",
+   "years": "1841–1904",
+   "era": "romantic"
+  },
+  {
+   "id": "massenet",
+   "name": "Массне",
+   "full": "Жюль Массне",
+   "years": "1842–1912",
+   "era": "romantic"
+  },
+  {
+   "id": "grieg",
+   "name": "Григ",
+   "full": "Эдвард Григ",
+   "years": "1843–1907",
+   "era": "romantic"
+  },
+  {
+   "id": "rimsky",
+   "name": "Римский-Корсаков",
+   "full": "Николай Римский-Корсаков",
+   "years": "1844–1908",
+   "era": "romantic"
+  },
+  {
+   "id": "elgar",
+   "name": "Элгар",
+   "full": "Эдуард Элгар",
+   "years": "1857–1934",
+   "era": "modern"
+  },
+  {
+   "id": "mahler",
+   "name": "Малер",
+   "full": "Густав Малер",
+   "years": "1860–1911",
+   "era": "modern"
+  },
+  {
+   "id": "debussy",
+   "name": "Дебюсси",
+   "full": "Клод Дебюсси",
+   "years": "1862–1918",
+   "era": "modern"
+  },
+  {
+   "id": "satie",
+   "name": "Сати",
+   "full": "Эрик Сати",
+   "years": "1866–1925",
+   "era": "modern"
+  },
+  {
+   "id": "rachmaninoff",
+   "name": "Рахманинов",
+   "full": "Сергей Рахманинов",
+   "years": "1873–1943",
+   "era": "modern"
+  },
+  {
+   "id": "holst",
+   "name": "Холст",
+   "full": "Густав Холст",
+   "years": "1874–1934",
+   "era": "modern"
+  },
+  {
+   "id": "ravel",
+   "name": "Равель",
+   "full": "Морис Равель",
+   "years": "1875–1937",
+   "era": "modern"
+  }
+ ],
+ "pieces": [
+  {
+   "id": "bach-toccata",
+   "composer": "bach",
+   "title": "Токката и фуга ре минор",
+   "part": "BWV 565",
+   "year": "ок. 1704",
+   "era": "baroque",
+   "kind": "organ",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/Toccata_et_Fugue_BWV565.ogg/Toccata_et_Fugue_BWV565.ogg.mp3",
+    "duration": 513.5,
+    "license": "Public domain",
+    "artist": "Ashtar Moïra",
+    "page": "https://commons.wikimedia.org/wiki/File:Toccata_et_Fugue_BWV565.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    127,
+    203,
+    301,
+    318,
+    406,
+    486
+   ]
+  },
+  {
+   "id": "bach-air",
+   "composer": "bach",
+   "title": "Ария на струне соль",
+   "part": "Оркестровая сюита № 3",
+   "year": "1731",
+   "era": "baroque",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Air_-_Air_Force_Strings_-_United_States_Air_Force_Band.mp3",
+    "duration": 183.3,
+    "license": "Public domain",
+    "artist": "United States Air Force Band, Air Force Strings",
+    "page": "https://commons.wikimedia.org/wiki/File:Air_-_Air_Force_Strings_-_United_States_Air_Force_Band.mp3"
+   },
+   "intro": 0,
+   "spots": [
+    55,
+    77,
+    99,
+    121,
+    143
+   ]
+  },
+  {
+   "id": "bach-cello-1",
+   "composer": "bach",
+   "title": "Сюита для виолончели № 1",
+   "part": "Прелюдия",
+   "year": "ок. 1720",
+   "era": "baroque",
+   "kind": "solo",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/Bach_-_Cello_Suite_no._1_in_G_major%2C_BWV_1007_-_I._Pr%C3%A9lude.ogg/Bach_-_Cello_Suite_no._1_in_G_major%2C_BWV_1007_-_I._Pr%C3%A9lude.ogg.mp3",
+    "duration": 149.7,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Bach_-_Cello_Suite_no._1_in_G_major,_BWV_1007_-_I._Pr%C3%A9lude.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    45,
+    63,
+    81,
+    99,
+    117
+   ]
+  },
+  {
+   "id": "bach-wtc-1",
+   "composer": "bach",
+   "title": "Прелюдия до мажор",
+   "part": "Хорошо темперированный клавир, том I",
+   "year": "1722",
+   "era": "baroque",
+   "kind": "piano",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b6/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_01_Prelude_No._1_in_C_major%2C_BWV_846.ogg/Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier%2C_Book_1_-_01_Prelude_No._1_in_C_major%2C_BWV_846.ogg.mp3",
+    "duration": 162.9,
+    "license": "CC0",
+    "artist": "Kimiko Ishizaka",
+    "page": "https://commons.wikimedia.org/wiki/File:Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier,_Book_1_-_01_Prelude_No._1_in_C_major,_BWV_846.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    49,
+    68,
+    88,
+    108,
+    127
+   ]
+  },
+  {
+   "id": "bach-badinerie",
+   "composer": "bach",
+   "title": "Шутка",
+   "part": "Оркестровая сюита № 2",
+   "year": "1739",
+   "era": "baroque",
+   "kind": "orchestra",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/Bach%2C_Johann_Sebastian_-_Suite_No.2_in_B_Minor_-_X._Badinerie.ogg/Bach%2C_Johann_Sebastian_-_Suite_No.2_in_B_Minor_-_X._Badinerie.ogg.mp3",
+    "duration": 83.3,
+    "license": "CC0",
+    "artist": "European Archive",
+    "page": "https://commons.wikimedia.org/wiki/File:Bach,_Johann_Sebastian_-_Suite_No.2_in_B_Minor_-_X._Badinerie.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    35,
+    45,
+    55
+   ]
+  },
+  {
+   "id": "bach-jesu",
+   "composer": "bach",
+   "title": "Хорал «Иисус, радость моя»",
+   "part": "Кантата BWV 147",
+   "year": "1723",
+   "era": "baroque",
+   "kind": "vocal",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/27/Bach%2C_BWV_147%2C_10._Jesus_bleibet_meine_Freude.ogg/Bach%2C_BWV_147%2C_10._Jesus_bleibet_meine_Freude.ogg.mp3",
+    "duration": 202.3,
+    "license": "CC0",
+    "artist": "Orchestra Gli Armonici",
+    "page": "https://commons.wikimedia.org/wiki/File:Bach,_BWV_147,_10._Jesus_bleibet_meine_Freude.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    61,
+    85,
+    109,
+    133,
+    158
+   ]
+  },
+  {
+   "id": "bach-goldberg",
+   "composer": "bach",
+   "title": "Гольдберг-вариации",
+   "part": "Ария",
+   "year": "1741",
+   "era": "baroque",
+   "kind": "piano",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/Goldberg_Variations_01_Aria.ogg/Goldberg_Variations_01_Aria.ogg.mp3",
+    "duration": 299.5,
+    "license": "Public domain",
+    "artist": "Kimiko Ishizaka",
+    "page": "https://commons.wikimedia.org/wiki/File:Goldberg_Variations_01_Aria.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    90,
+    126,
+    162,
+    198,
+    234
+   ]
+  },
+  {
+   "id": "vivaldi-spring",
+   "composer": "vivaldi",
+   "title": "Времена года: Весна",
+   "part": "I. Allegro",
+   "year": "1725",
+   "era": "baroque",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/ff/Vivaldi_-_Four_Seasons_1_Spring_mvt_1_Allegro_-_John_Harrison_violin.oga/Vivaldi_-_Four_Seasons_1_Spring_mvt_1_Allegro_-_John_Harrison_violin.oga.mp3",
+    "duration": 215.3,
+    "license": "CC BY-SA 4.0",
+    "artist": "John Harrison (скрипка)",
+    "page": "https://commons.wikimedia.org/wiki/File:Vivaldi_-_Four_Seasons_1_Spring_mvt_1_Allegro_-_John_Harrison_violin.oga"
+   },
+   "intro": 0,
+   "spots": [
+    65,
+    90,
+    116,
+    142,
+    168
+   ]
+  },
+  {
+   "id": "vivaldi-summer",
+   "composer": "vivaldi",
+   "title": "Времена года: Лето",
+   "part": "III. Presto «Гроза»",
+   "year": "1725",
+   "era": "baroque",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fa/Vivaldi_-_Four_Seasons_2_Summer_mvt_3_Presto_-_John_Harrison_violin.oga/Vivaldi_-_Four_Seasons_2_Summer_mvt_3_Presto_-_John_Harrison_violin.oga.mp3",
+    "duration": 159,
+    "license": "CC BY-SA 4.0",
+    "artist": "John Harrison (скрипка)",
+    "page": "https://commons.wikimedia.org/wiki/File:Vivaldi_-_Four_Seasons_2_Summer_mvt_3_Presto_-_John_Harrison_violin.oga"
+   },
+   "intro": 0,
+   "spots": [
+    48,
+    67,
+    86,
+    105,
+    124
+   ]
+  },
+  {
+   "id": "vivaldi-winter",
+   "composer": "vivaldi",
+   "title": "Времена года: Зима",
+   "part": "I. Allegro non molto",
+   "year": "1725",
+   "era": "baroque",
+   "kind": "orchestra",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/Vivaldi_-_Four_Seasons_4_Winter_mvt_1_Allegro_non_molto_-_John_Harrison_violin.oga/Vivaldi_-_Four_Seasons_4_Winter_mvt_1_Allegro_non_molto_-_John_Harrison_violin.oga.mp3",
+    "duration": 208.8,
+    "license": "CC BY-SA 4.0",
+    "artist": "John Harrison (скрипка)",
+    "page": "https://commons.wikimedia.org/wiki/File:Vivaldi_-_Four_Seasons_4_Winter_mvt_1_Allegro_non_molto_-_John_Harrison_violin.oga"
+   },
+   "intro": 0,
+   "spots": [
+    63,
+    88,
+    113,
+    138,
+    163
+   ]
+  },
+  {
+   "id": "handel-hallelujah",
+   "composer": "handel",
+   "title": "Аллилуйя",
+   "part": "Оратория «Мессия»",
+   "year": "1741",
+   "era": "baroque",
+   "kind": "vocal",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ce/Handel_-_messiah_-_44_hallelujah.ogg/Handel_-_messiah_-_44_hallelujah.ogg.mp3",
+    "duration": 227.4,
+    "license": "CC BY-SA 2.0",
+    "artist": "MIT Concert Choir, дирижёр William C. Cutter",
+    "page": "https://commons.wikimedia.org/wiki/File:Handel_-_messiah_-_44_hallelujah.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    68,
+    96,
+    123,
+    150,
+    177
+   ]
+  },
+  {
+   "id": "handel-sarabande",
+   "composer": "handel",
+   "title": "Сарабанда",
+   "part": "Сюита ре минор, HWV 437",
+   "year": "1733",
+   "era": "baroque",
+   "kind": "piano",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e9/Handel_-_Suite_Vol._2_No._4_in_D_minor_HWV_437_-_4._Sarabande.oga/Handel_-_Suite_Vol._2_No._4_in_D_minor_HWV_437_-_4._Sarabande.oga.mp3",
+    "duration": 199.8,
+    "license": "CC BY-SA 3.0",
+    "artist": "Edward Cree",
+    "page": "https://commons.wikimedia.org/wiki/File:Handel_-_Suite_Vol._2_No._4_in_D_minor_HWV_437_-_4._Sarabande.oga"
+   },
+   "intro": 0,
+   "spots": [
+    60,
+    84,
+    108,
+    132,
+    156
+   ]
+  },
+  {
+   "id": "handel-hornpipe",
+   "composer": "handel",
+   "title": "Музыка на воде",
+   "part": "Alla Hornpipe",
+   "year": "1717",
+   "era": "baroque",
+   "kind": "orchestra",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/Handel%27s_Water_Music_-_12._Alla_hornpipe_-_Chamber_Orchestra_-_United_States_Marine_Band.opus/Handel%27s_Water_Music_-_12._Alla_hornpipe_-_Chamber_Orchestra_-_United_States_Marine_Band.opus.mp3",
+    "duration": 228.7,
+    "license": "Public domain",
+    "artist": "United States Marine Band, Chamber Orchestra",
+    "page": "https://commons.wikimedia.org/wiki/File:Handel%27s_Water_Music_-_12._Alla_hornpipe_-_Chamber_Orchestra_-_United_States_Marine_Band.opus"
+   },
+   "intro": 0,
+   "spots": [
+    69,
+    96,
+    123,
+    151,
+    178
+   ]
+  },
+  {
+   "id": "pachelbel-canon",
+   "composer": "pachelbel",
+   "title": "Канон ре мажор",
+   "year": "ок. 1680",
+   "era": "baroque",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Canon_in_D_Major_%28ISRC_USUAN1100301%29.mp3",
+    "duration": 264.7,
+    "license": "CC BY 3.0",
+    "artist": "Kevin MacLeod",
+    "page": "https://commons.wikimedia.org/wiki/File:Canon_in_D_Major_(ISRC_USUAN1100301).mp3"
+   },
+   "intro": 0,
+   "spots": [
+    79,
+    111,
+    143,
+    175,
+    206
+   ]
+  },
+  {
+   "id": "mozart-sym40",
+   "composer": "mozart",
+   "title": "Симфония № 40",
+   "part": "I. Molto allegro",
+   "year": "1788",
+   "era": "classical",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a8/Mozart_-_Symphony_No._40_in_G_minor%2C_K550_-_I._Molto_allegro_%28Musopen_Symphony%29.flac/Mozart_-_Symphony_No._40_in_G_minor%2C_K550_-_I._Molto_allegro_%28Musopen_Symphony%29.flac.mp3",
+    "duration": 358.8,
+    "license": "Public domain",
+    "artist": "Musopen Symphony",
+    "page": "https://commons.wikimedia.org/wiki/File:Mozart_-_Symphony_No._40_in_G_minor,_K550_-_I._Molto_allegro_(Musopen_Symphony).flac"
+   },
+   "intro": 0,
+   "spots": [
+    108,
+    151,
+    194,
+    237,
+    280
+   ]
+  },
+  {
+   "id": "mozart-lacrimosa",
+   "composer": "mozart",
+   "title": "Реквием",
+   "part": "Lacrimosa",
+   "year": "1791",
+   "era": "classical",
+   "kind": "vocal",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/Mozart_-_Requiem_%28Krips%29_-_VIII._Lacrimosa.flac/Mozart_-_Requiem_%28Krips%29_-_VIII._Lacrimosa.flac.mp3",
+    "duration": 233,
+    "license": "Public domain",
+    "artist": "дирижёр Josef Krips",
+    "page": "https://commons.wikimedia.org/wiki/File:Mozart_-_Requiem_(Krips)_-_VIII._Lacrimosa.flac"
+   },
+   "intro": 0,
+   "spots": [
+    70,
+    98,
+    126,
+    154,
+    182
+   ]
+  },
+  {
+   "id": "mozart-turca",
+   "composer": "mozart",
+   "title": "Турецкий марш",
+   "part": "Соната № 11, III. Rondo alla turca",
+   "year": "1783",
+   "era": "classical",
+   "kind": "piano",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bd/Rondo_Alla_Turka.ogg/Rondo_Alla_Turka.ogg.mp3",
+    "duration": 225,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Rondo_Alla_Turka.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    67,
+    94,
+    121,
+    148,
+    175
+   ]
+  },
+  {
+   "id": "mozart-figaro",
+   "composer": "mozart",
+   "title": "Свадьба Фигаро",
+   "part": "Увертюра",
+   "year": "1786",
+   "era": "classical",
+   "kind": "orchestra",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d2/Mozart_-_Le_nozze_di_Figaro%2C_K492_-_Overture_%28Musopen_Symphony%29.flac/Mozart_-_Le_nozze_di_Figaro%2C_K492_-_Overture_%28Musopen_Symphony%29.flac.mp3",
+    "duration": 241,
+    "license": "Public domain",
+    "artist": "Musopen Symphony",
+    "page": "https://commons.wikimedia.org/wiki/File:Mozart_-_Le_nozze_di_Figaro,_K492_-_Overture_(Musopen_Symphony).flac"
+   },
+   "intro": 0,
+   "spots": [
+    72,
+    101,
+    130,
+    159,
+    188
+   ]
+  },
+  {
+   "id": "mozart-queen",
+   "composer": "mozart",
+   "title": "Ария Царицы ночи",
+   "part": "Опера «Волшебная флейта»",
+   "year": "1791",
+   "era": "classical",
+   "kind": "vocal",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7d/Der_Hoelle_Rache.ogg/Der_Hoelle_Rache.ogg.mp3",
+    "duration": 190.6,
+    "license": "CC BY 2.5",
+    "artist": "Trisdee na Patalung",
+    "page": "https://commons.wikimedia.org/wiki/File:Der_Hoelle_Rache.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    57,
+    80,
+    103,
+    126,
+    149
+   ]
+  },
+  {
+   "id": "haydn-surprise",
+   "composer": "haydn",
+   "title": "Симфония № 94 «Сюрприз»",
+   "part": "II. Andante",
+   "year": "1791",
+   "era": "classical",
+   "kind": "orchestra",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/Haydn%3B_Symphony_No._94_%22Surprise%22%2C_2._Andante.ogg/Haydn%3B_Symphony_No._94_%22Surprise%22%2C_2._Andante.ogg.mp3",
+    "duration": 438.3,
+    "license": "Public domain",
+    "artist": "Boston Symphony Orchestra Serge Koussevitzky",
+    "page": "https://commons.wikimedia.org/wiki/File:Haydn;_Symphony_No._94_%22Surprise%22,_2._Andante.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    131,
+    184,
+    237,
+    289,
+    342
+   ]
+  },
+  {
+   "id": "haydn-trumpet",
+   "composer": "haydn",
+   "title": "Концерт для трубы",
+   "part": "III. Allegro",
+   "year": "1796",
+   "era": "classical",
+   "kind": "orchestra",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Real_Filharmon%C3%ADa_de_Galicia_-_Haydn%27s_Trumpet_Concerto_in_E-flat_major%2C_Hob.VIIe-1_-_III._Finale_allegro.ogg/Real_Filharmon%C3%ADa_de_Galicia_-_Haydn%27s_Trumpet_Concerto_in_E-flat_major%2C_Hob.VIIe-1_-_III._Finale_allegro.ogg.mp3",
+    "duration": 265.1,
+    "license": "CC BY 3.0",
+    "artist": "Real Filharmonía de Galicia",
+    "page": "https://commons.wikimedia.org/wiki/File:Real_Filharmon%C3%ADa_de_Galicia_-_Haydn%27s_Trumpet_Concerto_in_E-flat_major,_Hob.VIIe-1_-_III._Finale_allegro.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    80,
+    111,
+    143,
+    175,
+    207
+   ]
+  },
+  {
+   "id": "beethoven-sym5",
+   "composer": "beethoven",
+   "title": "Симфония № 5",
+   "part": "I. Allegro con brio",
+   "year": "1808",
+   "era": "classical",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Ludwig_van_Beethoven_-_symphony_no._5_in_c_minor%2C_op._67_-_i._allegro_con_brio.ogg/Ludwig_van_Beethoven_-_symphony_no._5_in_c_minor%2C_op._67_-_i._allegro_con_brio.ogg.mp3",
+    "duration": 500.1,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_symphony_no._5_in_c_minor,_op._67_-_i._allegro_con_brio.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    150,
+    210,
+    270,
+    330,
+    390
+   ]
+  },
+  {
+   "id": "beethoven-moonlight",
+   "composer": "beethoven",
+   "title": "Лунная соната",
+   "part": "I. Adagio sostenuto",
+   "year": "1801",
+   "era": "classical",
+   "kind": "piano",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/48/Ludwig_van_Beethoven_-_sonata_no._14_in_c_sharp_minor_%27moonlight%27%2C_op._27_no._2_-_i._adagio_sostenuto.ogg/Ludwig_van_Beethoven_-_sonata_no._14_in_c_sharp_minor_%27moonlight%27%2C_op._27_no._2_-_i._adagio_sostenuto.ogg.mp3",
+    "duration": 335.8,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_sonata_no._14_in_c_sharp_minor_%27moonlight%27,_op._27_no._2_-_i._adagio_sostenuto.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    101,
+    141,
+    181,
+    222,
+    262
+   ]
+  },
+  {
+   "id": "beethoven-elise",
+   "composer": "beethoven",
+   "title": "К Элизе",
+   "year": "1810",
+   "era": "classical",
+   "kind": "piano",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/15/For_Elise_%28F%C3%BCr_Elise%29_Beethoven_JMC_Han.ogg/For_Elise_%28F%C3%BCr_Elise%29_Beethoven_JMC_Han.ogg.mp3",
+    "duration": 160.4,
+    "license": "CC BY-SA 4.0",
+    "artist": "Jason M. C. Han",
+    "page": "https://commons.wikimedia.org/wiki/File:For_Elise_(F%C3%BCr_Elise)_Beethoven_JMC_Han.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    48,
+    67,
+    87,
+    106,
+    125
+   ]
+  },
+  {
+   "id": "beethoven-ode",
+   "composer": "beethoven",
+   "title": "Ода к радости",
+   "part": "Симфония № 9, финал (переложение для оркестра)",
+   "year": "1824",
+   "era": "classical",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ode_to_Joy_-_Concert_Band_-_United_States_Air_Force_Band_of_the_Rockies.mp3",
+    "duration": 220,
+    "license": "Public domain",
+    "artist": "United States Air Force Band of the Rockies",
+    "page": "https://commons.wikimedia.org/wiki/File:Ode_to_Joy_-_Concert_Band_-_United_States_Air_Force_Band_of_the_Rockies.mp3"
+   },
+   "intro": 0,
+   "spots": [
+    66,
+    92,
+    119,
+    145,
+    172
+   ]
+  },
+  {
+   "id": "beethoven-pathetique",
+   "composer": "beethoven",
+   "title": "Патетическая соната",
+   "part": "II. Adagio cantabile",
+   "year": "1798",
+   "era": "classical",
+   "kind": "piano",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/Beethoven%2C_Sonata_No._8_in_C_Minor_Pathetique%2C_Op._13_-_II._Adagio_cantabile.ogg/Beethoven%2C_Sonata_No._8_in_C_Minor_Pathetique%2C_Op._13_-_II._Adagio_cantabile.ogg.mp3",
+    "duration": 298.2,
+    "license": "CC0",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Beethoven,_Sonata_No._8_in_C_Minor_Pathetique,_Op._13_-_II._Adagio_cantabile.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    89,
+    125,
+    161,
+    197,
+    233
+   ]
+  },
+  {
+   "id": "paganini-caprice-24",
+   "composer": "paganini",
+   "title": "Каприс № 24",
+   "year": "1817",
+   "era": "romantic",
+   "kind": "solo",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/Paganini_Caprice-24.ogg/Paganini_Caprice-24.ogg.mp3",
+    "duration": 310.7,
+    "license": "Public domain",
+    "artist": "Steinaco",
+    "page": "https://commons.wikimedia.org/wiki/File:Paganini_Caprice-24.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    93,
+    131,
+    168,
+    205,
+    242
+   ]
+  },
+  {
+   "id": "rossini-tell",
+   "composer": "rossini",
+   "title": "Вильгельм Телль",
+   "part": "Увертюра, финал",
+   "year": "1829",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/Gioachino_Rossini%2C_William_Tell_Overture_%28military_band_version%2C_2000%29.ogg/Gioachino_Rossini%2C_William_Tell_Overture_%28military_band_version%2C_2000%29.ogg.mp3",
+    "duration": 662,
+    "license": "Public domain",
+    "artist": "United States Marine Band",
+    "page": "https://commons.wikimedia.org/wiki/File:Gioachino_Rossini,_William_Tell_Overture_(military_band_version,_2000).ogg"
+   },
+   "intro": 480,
+   "spots": [
+    199,
+    278,
+    357,
+    437,
+    516
+   ]
+  },
+  {
+   "id": "schubert-serenade",
+   "composer": "schubert",
+   "title": "Серенада",
+   "part": "Цикл «Лебединая песня»",
+   "year": "1828",
+   "era": "romantic",
+   "kind": "piano",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ca/St%C3%A4ndchen_%28Schubert%29-Serenade_D957_No.4%2C_Player_Jason%2C_Han.ogg/St%C3%A4ndchen_%28Schubert%29-Serenade_D957_No.4%2C_Player_Jason%2C_Han.ogg.mp3",
+    "duration": 220.1,
+    "license": "CC BY-SA 4.0",
+    "artist": "Jason M. C., Han",
+    "page": "https://commons.wikimedia.org/wiki/File:St%C3%A4ndchen_(Schubert)-Serenade_D957_No.4,_Player_Jason,_Han.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    66,
+    92,
+    119,
+    145,
+    172
+   ]
+  },
+  {
+   "id": "mendelssohn-wedding",
+   "composer": "mendelssohn",
+   "title": "Свадебный марш",
+   "part": "Музыка к «Сну в летнюю ночь»",
+   "year": "1842",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/A_Midsummer_Night%27s_Dream_Op._61_Wedding_March_%28Mendelssohn%29_European_Archive.ogg/A_Midsummer_Night%27s_Dream_Op._61_Wedding_March_%28Mendelssohn%29_European_Archive.ogg.mp3",
+    "duration": 293.6,
+    "license": "Public domain",
+    "artist": "European Archive",
+    "page": "https://commons.wikimedia.org/wiki/File:A_Midsummer_Night%27s_Dream_Op._61_Wedding_March_(Mendelssohn)_European_Archive.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    88,
+    123,
+    159,
+    194,
+    229
+   ]
+  },
+  {
+   "id": "chopin-nocturne",
+   "composer": "chopin",
+   "title": "Ноктюрн ми-бемоль мажор",
+   "part": "Op. 9 № 2",
+   "year": "1832",
+   "era": "romantic",
+   "kind": "piano",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/Chopin_-_Nocturne_No._2_in_E-flat_major%2C_Op._9_No._2_%28Frank_Levy%29.flac/Chopin_-_Nocturne_No._2_in_E-flat_major%2C_Op._9_No._2_%28Frank_Levy%29.flac.mp3",
+    "duration": 271.5,
+    "license": "Public domain",
+    "artist": "Frank Levy",
+    "page": "https://commons.wikimedia.org/wiki/File:Chopin_-_Nocturne_No._2_in_E-flat_major,_Op._9_No._2_(Frank_Levy).flac"
+   },
+   "intro": 0,
+   "spots": [
+    81,
+    114,
+    147,
+    179,
+    212
+   ]
+  },
+  {
+   "id": "chopin-funeral",
+   "composer": "chopin",
+   "title": "Траурный марш",
+   "part": "Соната № 2, III",
+   "year": "1839",
+   "era": "romantic",
+   "kind": "piano",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b2/Frederic_Chopin_Piano_Sonata_No.2_in_B_flat_minor_Op35_-_III_Marche_Funebre.ogg/Frederic_Chopin_Piano_Sonata_No.2_in_B_flat_minor_Op35_-_III_Marche_Funebre.ogg.mp3",
+    "duration": 589,
+    "license": "CC0",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Frederic_Chopin_Piano_Sonata_No.2_in_B_flat_minor_Op35_-_III_Marche_Funebre.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    177,
+    247,
+    318,
+    389,
+    459
+   ]
+  },
+  {
+   "id": "chopin-fantaisie",
+   "composer": "chopin",
+   "title": "Фантазия-экспромт",
+   "part": "Op. 66",
+   "year": "1834",
+   "era": "romantic",
+   "kind": "piano",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/Chopin_-_Impromptu_No._4_in_C-sharp_minor%2C_Op._66_%27Fantaisie-Impromptu%27_%28Frank_Levy%29.flac/Chopin_-_Impromptu_No._4_in_C-sharp_minor%2C_Op._66_%27Fantaisie-Impromptu%27_%28Frank_Levy%29.flac.mp3",
+    "duration": 326.9,
+    "license": "Public domain",
+    "artist": "Frank Levy",
+    "page": "https://commons.wikimedia.org/wiki/File:Chopin_-_Impromptu_No._4_in_C-sharp_minor,_Op._66_%27Fantaisie-Impromptu%27_(Frank_Levy).flac"
+   },
+   "intro": 0,
+   "spots": [
+    98,
+    137,
+    177,
+    216,
+    255
+   ]
+  },
+  {
+   "id": "chopin-revolutionary",
+   "composer": "chopin",
+   "title": "Революционный этюд",
+   "part": "Op. 10 № 12",
+   "year": "1831",
+   "era": "romantic",
+   "kind": "piano",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8a/Chopin_-_12_%C3%89tudes%2C_Op._10_-_No._12_in_C_minor_%27Revolutionary%27_%28Edward_Neeman%29.flac/Chopin_-_12_%C3%89tudes%2C_Op._10_-_No._12_in_C_minor_%27Revolutionary%27_%28Edward_Neeman%29.flac.mp3",
+    "duration": 164.8,
+    "license": "Public domain",
+    "artist": "Edward Neeman",
+    "page": "https://commons.wikimedia.org/wiki/File:Chopin_-_12_%C3%89tudes,_Op._10_-_No._12_in_C_minor_%27Revolutionary%27_(Edward_Neeman).flac"
+   },
+   "intro": 0,
+   "spots": [
+    49,
+    69,
+    89,
+    109,
+    129
+   ]
+  },
+  {
+   "id": "chopin-minute",
+   "composer": "chopin",
+   "title": "Вальс-минутка",
+   "part": "Op. 64 № 1",
+   "year": "1847",
+   "era": "romantic",
+   "kind": "piano",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/Chopin_-_Waltz_No._6_in_D-flat_major%2C_Op._64%2C_No._1_%27Minute%27_%28Olga_Gurevich%29.flac/Chopin_-_Waltz_No._6_in_D-flat_major%2C_Op._64%2C_No._1_%27Minute%27_%28Olga_Gurevich%29.flac.mp3",
+    "duration": 107.4,
+    "license": "Public domain",
+    "artist": "Olga Gurevich",
+    "page": "https://commons.wikimedia.org/wiki/File:Chopin_-_Waltz_No._6_in_D-flat_major,_Op._64,_No._1_%27Minute%27_(Olga_Gurevich).flac"
+   },
+   "intro": 0,
+   "spots": [
+    32,
+    45,
+    58,
+    71,
+    84
+   ]
+  },
+  {
+   "id": "chopin-raindrop",
+   "composer": "chopin",
+   "title": "Прелюдия «Капли дождя»",
+   "part": "Op. 28 № 15",
+   "year": "1839",
+   "era": "romantic",
+   "kind": "piano",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a4/Chopin_-_Prelude_in_D-flat_Op-28_No-15_%28Raindrop%29_%28Piano_Performance_by_eld%C3%BCendes%C3%BCarez%29.wav/Chopin_-_Prelude_in_D-flat_Op-28_No-15_%28Raindrop%29_%28Piano_Performance_by_eld%C3%BCendes%C3%BCarez%29.wav.mp3",
+    "duration": 267.5,
+    "license": "CC BY-SA 4.0",
+    "artist": "eldüendesüarez",
+    "page": "https://commons.wikimedia.org/wiki/File:Chopin_-_Prelude_in_D-flat_Op-28_No-15_(Raindrop)_(Piano_Performance_by_eld%C3%BCendes%C3%BCarez).wav"
+   },
+   "intro": 0,
+   "spots": [
+    80,
+    112,
+    144,
+    177,
+    209
+   ]
+  },
+  {
+   "id": "schumann-traumerei",
+   "composer": "schumann",
+   "title": "Грёзы",
+   "part": "Цикл «Детские сцены»",
+   "year": "1838",
+   "era": "romantic",
+   "kind": "piano",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/Robert_Schumann_-_scenes_from_childhood%2C_op._15_-_vii._dreaming.ogg/Robert_Schumann_-_scenes_from_childhood%2C_op._15_-_vii._dreaming.ogg.mp3",
+    "duration": 203,
+    "license": "Public domain",
+    "artist": "исполнитель указан на Musopen",
+    "page": "https://commons.wikimedia.org/wiki/File:Robert_Schumann_-_scenes_from_childhood,_op._15_-_vii._dreaming.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    61,
+    85,
+    110,
+    134,
+    158
+   ]
+  },
+  {
+   "id": "liszt-rhapsody-2",
+   "composer": "liszt",
+   "title": "Венгерская рапсодия № 2",
+   "year": "1847",
+   "era": "romantic",
+   "kind": "piano",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/Hungarian_Rhapsody_No_2.ogg/Hungarian_Rhapsody_No_2.ogg.mp3",
+    "duration": 545.3,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Hungarian_Rhapsody_No_2.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    164,
+    229,
+    294,
+    360,
+    425
+   ]
+  },
+  {
+   "id": "liszt-campanella",
+   "composer": "liszt",
+   "title": "Кампанелла",
+   "part": "Этюд по Паганини № 3",
+   "year": "1851",
+   "era": "romantic",
+   "kind": "piano",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ca/Liszt-La_Campanella-Greiss.ogg/Liszt-La_Campanella-Greiss.ogg.mp3",
+    "duration": 372.2,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Liszt-La_Campanella-Greiss.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    112,
+    156,
+    201,
+    246,
+    290
+   ]
+  },
+  {
+   "id": "wagner-valkyries",
+   "composer": "wagner",
+   "title": "Полёт валькирий",
+   "part": "Опера «Валькирия»",
+   "year": "1856",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/29/Richard_Wagner_-_Ride_of_the_Valkyries.ogg/Richard_Wagner_-_Ride_of_the_Valkyries.ogg.mp3",
+    "duration": 257.7,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Richard_Wagner_-_Ride_of_the_Valkyries.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    77,
+    108,
+    139,
+    170,
+    201
+   ]
+  },
+  {
+   "id": "wagner-bridal",
+   "composer": "wagner",
+   "title": "Свадебный хор",
+   "part": "Опера «Лоэнгрин»",
+   "year": "1850",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Wagner_Bridal_Chorus_%28ISRC_USUAN1100021%29.mp3",
+    "duration": 139.1,
+    "license": "CC BY 3.0",
+    "artist": "Kevin MacLeod",
+    "page": "https://commons.wikimedia.org/wiki/File:Wagner_Bridal_Chorus_(ISRC_USUAN1100021).mp3"
+   },
+   "intro": 0,
+   "spots": [
+    42,
+    58,
+    75,
+    92,
+    108
+   ]
+  },
+  {
+   "id": "verdi-donna",
+   "composer": "verdi",
+   "title": "Песенка Герцога",
+   "part": "Опера «Риголетто»",
+   "year": "1851",
+   "era": "romantic",
+   "kind": "vocal",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5a/La_Donna_E_Mobile_Rigoletto.ogg/La_Donna_E_Mobile_Rigoletto.ogg.mp3",
+    "duration": 129.9,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Donna_E_Mobile_Rigoletto.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    39,
+    55,
+    70,
+    86,
+    101
+   ]
+  },
+  {
+   "id": "offenbach-cancan",
+   "composer": "offenbach",
+   "title": "Канкан",
+   "part": "Оперетта «Орфей в аду»",
+   "year": "1858",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7d/Jacques_Offenbach_-_Galop_Infernal_from_Orpheus_in_the_Underworld_%28Can_Can%29_%281858%29.ogg/Jacques_Offenbach_-_Galop_Infernal_from_Orpheus_in_the_Underworld_%28Can_Can%29_%281858%29.ogg.mp3",
+    "duration": 148.6,
+    "license": "Public domain",
+    "artist": "Gnissah",
+    "page": "https://commons.wikimedia.org/wiki/File:Jacques_Offenbach_-_Galop_Infernal_from_Orpheus_in_the_Underworld_(Can_Can)_(1858).ogg"
+   },
+   "intro": 0,
+   "spots": [
+    45,
+    62,
+    80,
+    98,
+    116
+   ]
+  },
+  {
+   "id": "smetana-vltava",
+   "composer": "smetana",
+   "title": "Влтава",
+   "part": "Цикл «Моя родина»",
+   "year": "1874",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/39/Smetana%2C_M%C3%A1_vlast_-_Vltava_-_The_Moldau.ogg/Smetana%2C_M%C3%A1_vlast_-_Vltava_-_The_Moldau.ogg.mp3",
+    "duration": 770.9,
+    "license": "CC0",
+    "artist": "Musopen Symphony Orchestra",
+    "page": "https://commons.wikimedia.org/wiki/File:Smetana,_M%C3%A1_vlast_-_Vltava_-_The_Moldau.ogg"
+   },
+   "intro": 62,
+   "spots": [
+    231,
+    324,
+    416,
+    509,
+    601
+   ]
+  },
+  {
+   "id": "strauss-danube",
+   "composer": "strauss",
+   "title": "На прекрасном голубом Дунае",
+   "year": "1866",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/%22An_der_sch%C3%B6nen%2C_blauen_Donau%22_performed_by_the_U.S._Marine_Band.mp3",
+    "duration": 549.1,
+    "license": "Public domain",
+    "artist": "United States Marine Band",
+    "page": "https://commons.wikimedia.org/wiki/File:%22An_der_sch%C3%B6nen,_blauen_Donau%22_performed_by_the_U.S._Marine_Band.mp3"
+   },
+   "intro": 100,
+   "spots": [
+    165,
+    231,
+    296,
+    362,
+    428
+   ]
+  },
+  {
+   "id": "brahms-hungarian-5",
+   "composer": "brahms",
+   "title": "Венгерский танец № 5",
+   "year": "1869",
+   "era": "romantic",
+   "kind": "piano",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ea/Hungarian_Dances_-_No._5_in_F_Sharp_Minor_%28Collections_in_piano%29_JMC%2CHan.ogg/Hungarian_Dances_-_No._5_in_F_Sharp_Minor_%28Collections_in_piano%29_JMC%2CHan.ogg.mp3",
+    "duration": 70.4,
+    "license": "CC BY-SA 4.0",
+    "artist": "Jason M. C., Han",
+    "page": "https://commons.wikimedia.org/wiki/File:Hungarian_Dances_-_No._5_in_F_Sharp_Minor_(Collections_in_piano)_JMC,Han.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    30,
+    38,
+    46
+   ]
+  },
+  {
+   "id": "brahms-lullaby",
+   "composer": "brahms",
+   "title": "Колыбельная",
+   "part": "Op. 49 № 4",
+   "year": "1868",
+   "era": "romantic",
+   "kind": "vocal",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/df/Johannes_Brahms_ninna_nanna_op_49_n_4.ogg/Johannes_Brahms_ninna_nanna_op_49_n_4.ogg.mp3",
+    "duration": 109.1,
+    "license": "Public domain",
+    "artist": "Pracchia-78",
+    "page": "https://commons.wikimedia.org/wiki/File:Johannes_Brahms_ninna_nanna_op_49_n_4.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    33,
+    46,
+    59,
+    72,
+    85
+   ]
+  },
+  {
+   "id": "brahms-sym3",
+   "composer": "brahms",
+   "title": "Симфония № 3",
+   "part": "III. Poco allegretto",
+   "year": "1883",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b9/Brahms%2C_Symphony_No._3_in_F_Major%2C_Op._90_-_III._Poco_allegretto.ogg/Brahms%2C_Symphony_No._3_in_F_Major%2C_Op._90_-_III._Poco_allegretto.ogg.mp3",
+    "duration": 370,
+    "license": "CC0",
+    "artist": "Musopen Symphony Orchestra",
+    "page": "https://commons.wikimedia.org/wiki/File:Brahms,_Symphony_No._3_in_F_Major,_Op._90_-_III._Poco_allegretto.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    111,
+    155,
+    200,
+    244,
+    289
+   ]
+  },
+  {
+   "id": "saint-saens-swan",
+   "composer": "saint-saens",
+   "title": "Лебедь",
+   "part": "Сюита «Карнавал животных»",
+   "year": "1886",
+   "era": "romantic",
+   "kind": "solo",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/Judith_Bokor_plays_Le_Cygne_by_Saint-Sa%C3%ABns.flac/Judith_Bokor_plays_Le_Cygne_by_Saint-Sa%C3%ABns.flac.mp3",
+    "duration": 154.1,
+    "license": "Public domain",
+    "artist": "Judith Bokor",
+    "page": "https://commons.wikimedia.org/wiki/File:Judith_Bokor_plays_Le_Cygne_by_Saint-Sa%C3%ABns.flac"
+   },
+   "intro": 0,
+   "spots": [
+    46,
+    65,
+    83,
+    102,
+    120
+   ]
+  },
+  {
+   "id": "saint-saens-macabre",
+   "composer": "saint-saens",
+   "title": "Пляска смерти",
+   "year": "1874",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8b/Saint-Sa%C3%ABns_-_Danse_macabre_%28Fourestier%2C_1953%29.flac/Saint-Sa%C3%ABns_-_Danse_macabre_%28Fourestier%2C_1953%29.flac.mp3",
+    "duration": 439,
+    "license": "Public domain",
+    "artist": "дирижёр Louis Fourestier, запись 1953 г.",
+    "page": "https://commons.wikimedia.org/wiki/File:Saint-Sa%C3%ABns_-_Danse_macabre_(Fourestier,_1953).flac"
+   },
+   "intro": 0,
+   "spots": [
+    132,
+    184,
+    237,
+    290,
+    342
+   ]
+  },
+  {
+   "id": "bizet-habanera",
+   "composer": "bizet",
+   "title": "Хабанера",
+   "part": "Опера «Кармен»",
+   "year": "1875",
+   "era": "romantic",
+   "kind": "vocal",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Habanera_%28ISRC_USUAN1100656%29.mp3",
+    "duration": 247.7,
+    "license": "CC BY 3.0",
+    "artist": "Kevin MacLeod; вокал — Jenny Lee Mitchell",
+    "page": "https://commons.wikimedia.org/wiki/File:Habanera_(ISRC_USUAN1100656).mp3"
+   },
+   "intro": 0,
+   "spots": [
+    74,
+    104,
+    134,
+    163,
+    193
+   ]
+  },
+  {
+   "id": "bizet-toreador",
+   "composer": "bizet",
+   "title": "Куплеты Тореадора",
+   "part": "Опера «Кармен»",
+   "year": "1875",
+   "era": "romantic",
+   "kind": "vocal",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bd/Bizet_-_Carmen_-_Toreador_Song_%28French%2C_Musopen%29.ogg/Bizet_-_Carmen_-_Toreador_Song_%28French%2C_Musopen%29.ogg.mp3",
+    "duration": 270.6,
+    "license": "CC0",
+    "artist": "Musopen",
+    "page": "https://commons.wikimedia.org/wiki/File:Bizet_-_Carmen_-_Toreador_Song_(French,_Musopen).ogg"
+   },
+   "intro": 0,
+   "spots": [
+    81,
+    114,
+    146,
+    179,
+    211
+   ]
+  },
+  {
+   "id": "mussorgsky-bald",
+   "composer": "mussorgsky",
+   "title": "Ночь на Лысой горе",
+   "year": "1867",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ca/Modest_Mussorgsky_-_night_on_bald_mountain.ogg/Modest_Mussorgsky_-_night_on_bald_mountain.ogg.mp3",
+    "duration": 733.2,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Modest_Mussorgsky_-_night_on_bald_mountain.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    220,
+    308,
+    396,
+    484,
+    572
+   ]
+  },
+  {
+   "id": "tchaikovsky-swan",
+   "composer": "tchaikovsky",
+   "title": "Лебединое озеро",
+   "part": "Сцена (тема лебедей)",
+   "year": "1876",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/Tchaikovsky_Swan_Lake_Op.20_No.10._Sc%C3%A8ne.ogg/Tchaikovsky_Swan_Lake_Op.20_No.10._Sc%C3%A8ne.ogg.mp3",
+    "duration": 150,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Tchaikovsky_Swan_Lake_Op.20_No.10._Sc%C3%A8ne.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    45,
+    63,
+    81,
+    99,
+    117
+   ]
+  },
+  {
+   "id": "tchaikovsky-pc1",
+   "composer": "tchaikovsky",
+   "title": "Концерт для фортепиано № 1",
+   "part": "I. Allegro non troppo",
+   "year": "1875",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/48/Tchaikovsky%2C_Concerto_No.1_in_B-flat_minor_Op.23%2C_I._Allegro.ogg/Tchaikovsky%2C_Concerto_No.1_in_B-flat_minor_Op.23%2C_I._Allegro.ogg.mp3",
+    "duration": 1127.4,
+    "license": "CC0",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Tchaikovsky,_Concerto_No.1_in_B-flat_minor_Op.23,_I._Allegro.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    338,
+    473,
+    609,
+    744,
+    879
+   ]
+  },
+  {
+   "id": "tchaikovsky-flowers",
+   "composer": "tchaikovsky",
+   "title": "Вальс цветов",
+   "part": "Балет «Щелкунчик»",
+   "year": "1892",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/P.I._Tchaikovsky%27s_Waltz_of_the_Flowers_Performed_by_The_U.S._Army_Band%2C_c._2019.mp3",
+    "duration": 399.5,
+    "license": "Public domain",
+    "artist": "The United States Army Band",
+    "page": "https://commons.wikimedia.org/wiki/File:P.I._Tchaikovsky%27s_Waltz_of_the_Flowers_Performed_by_The_U.S._Army_Band,_c._2019.mp3"
+   },
+   "intro": 70,
+   "spots": [
+    120,
+    168,
+    216,
+    264,
+    312
+   ]
+  },
+  {
+   "id": "dvorak-sym9",
+   "composer": "dvorak",
+   "title": "Симфония № 9 «Из Нового Света»",
+   "part": "II. Largo",
+   "year": "1893",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27%2C_op._95_-_ii._largo.ogg/Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27%2C_op._95_-_ii._largo.ogg.mp3",
+    "duration": 694.5,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Antonin_Dvorak_-_symphony_no._9_in_e_minor_%27from_the_new_world%27,_op._95_-_ii._largo.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    208,
+    292,
+    375,
+    458,
+    542
+   ]
+  },
+  {
+   "id": "massenet-meditation",
+   "composer": "massenet",
+   "title": "Размышление",
+   "part": "Опера «Таис»",
+   "year": "1894",
+   "era": "romantic",
+   "kind": "solo",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/ff/Meditation_from_Thais_-_Bomsori_Kim.opus/Meditation_from_Thais_-_Bomsori_Kim.opus.mp3",
+    "duration": 286.2,
+    "license": "CC BY 3.0",
+    "artist": "Bomsori Kim (скрипка), Premiere Performances of Hong Kong",
+    "page": "https://commons.wikimedia.org/wiki/File:Meditation_from_Thais_-_Bomsori_Kim.opus"
+   },
+   "intro": 0,
+   "spots": [
+    86,
+    120,
+    155,
+    189,
+    223
+   ]
+  },
+  {
+   "id": "grieg-mountain-king",
+   "composer": "grieg",
+   "title": "В пещере горного короля",
+   "part": "Сюита «Пер Гюнт»",
+   "year": "1875",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/Musopen_-_In_the_Hall_Of_The_Mountain_King.ogg/Musopen_-_In_the_Hall_Of_The_Mountain_King.ogg.mp3",
+    "duration": 154.1,
+    "license": "Public domain",
+    "artist": "Musopen Symphony Orchestra",
+    "page": "https://commons.wikimedia.org/wiki/File:Musopen_-_In_the_Hall_Of_The_Mountain_King.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    46,
+    65,
+    83,
+    102,
+    120
+   ]
+  },
+  {
+   "id": "grieg-morning",
+   "composer": "grieg",
+   "title": "Утро",
+   "part": "Сюита «Пер Гюнт»",
+   "year": "1875",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1a/Musopen_-_Morning.ogg/Musopen_-_Morning.ogg.mp3",
+    "duration": 229.2,
+    "license": "Public domain",
+    "artist": "Musopen Symphony Orchestra",
+    "page": "https://commons.wikimedia.org/wiki/File:Musopen_-_Morning.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    69,
+    96,
+    124,
+    151,
+    179
+   ]
+  },
+  {
+   "id": "rimsky-bumblebee",
+   "composer": "rimsky",
+   "title": "Полёт шмеля",
+   "part": "Опера «Сказка о царе Салтане»",
+   "year": "1900",
+   "era": "romantic",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Rimsky-Korsakov_-_flight_of_the_bumblebee.oga/Rimsky-Korsakov_-_flight_of_the_bumblebee.oga.mp3",
+    "duration": 79.3,
+    "license": "Public domain",
+    "artist": "United States Army Band",
+    "page": "https://commons.wikimedia.org/wiki/File:Rimsky-Korsakov_-_flight_of_the_bumblebee.oga"
+   },
+   "intro": 0,
+   "spots": [
+    33,
+    43,
+    52
+   ]
+  },
+  {
+   "id": "elgar-pomp",
+   "composer": "elgar",
+   "title": "Торжественный и церемониальный марш № 1",
+   "year": "1901",
+   "era": "modern",
+   "kind": "orchestra",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/ELGAR_Pomp_and_Circumstance_in_D%2C_Opus_39%2C_No._1_-_United_States_Marine_Band.mp3",
+    "duration": 345.6,
+    "license": "Public domain",
+    "artist": "United States Marine Band",
+    "page": "https://commons.wikimedia.org/wiki/File:ELGAR_Pomp_and_Circumstance_in_D,_Opus_39,_No._1_-_United_States_Marine_Band.mp3"
+   },
+   "intro": 118,
+   "spots": [
+    145,
+    187,
+    228,
+    270
+   ]
+  },
+  {
+   "id": "mahler-adagietto",
+   "composer": "mahler",
+   "title": "Симфония № 5",
+   "part": "IV. Adagietto",
+   "year": "1902",
+   "era": "modern",
+   "kind": "orchestra",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b2/Mahler_Symphony_No._5%2C_IV._Adagietto.ogg/Mahler_Symphony_No._5%2C_IV._Adagietto.ogg.mp3",
+    "duration": 621.3,
+    "license": "CC0",
+    "artist": "Peabody Symphony Orchestra",
+    "page": "https://commons.wikimedia.org/wiki/File:Mahler_Symphony_No._5,_IV._Adagietto.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    186,
+    261,
+    335,
+    410,
+    485
+   ]
+  },
+  {
+   "id": "debussy-clair",
+   "composer": "debussy",
+   "title": "Лунный свет",
+   "part": "Бергамасская сюита",
+   "year": "1905",
+   "era": "modern",
+   "kind": "piano",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/Clair_de_lune_%28Claude_Debussy%29_Suite_bergamasque.ogg/Clair_de_lune_%28Claude_Debussy%29_Suite_bergamasque.ogg.mp3",
+    "duration": 304.1,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Clair_de_lune_(Claude_Debussy)_Suite_bergamasque.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    91,
+    128,
+    164,
+    201,
+    237
+   ]
+  },
+  {
+   "id": "debussy-arabesque",
+   "composer": "debussy",
+   "title": "Арабеска № 1",
+   "year": "1891",
+   "era": "modern",
+   "kind": "piano",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0f/Claude_Debussy_-_Premi%C3%A8re_Arabesque_-_Patrizia_Prati.ogg/Claude_Debussy_-_Premi%C3%A8re_Arabesque_-_Patrizia_Prati.ogg.mp3",
+    "duration": 293,
+    "license": "CC BY-SA 4.0",
+    "artist": "Patrizia Prati",
+    "page": "https://commons.wikimedia.org/wiki/File:Claude_Debussy_-_Premi%C3%A8re_Arabesque_-_Patrizia_Prati.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    88,
+    123,
+    158,
+    193,
+    229
+   ]
+  },
+  {
+   "id": "debussy-faune",
+   "composer": "debussy",
+   "title": "Послеполуденный отдых фавна",
+   "part": "Прелюдия",
+   "year": "1894",
+   "era": "modern",
+   "kind": "orchestra",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/43/Columbia-dwx1550ix-c-wlx1289.ogg/Columbia-dwx1550ix-c-wlx1289.ogg.mp3",
+    "duration": 270,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Columbia-dwx1550ix-c-wlx1289.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    81,
+    113,
+    146,
+    178,
+    211
+   ]
+  },
+  {
+   "id": "debussy-fille",
+   "composer": "debussy",
+   "title": "Девушка с волосами цвета льна",
+   "part": "Прелюдии, тетрадь I",
+   "year": "1910",
+   "era": "modern",
+   "kind": "piano",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/62/Claude_Debussy_-_Pr%C3%A9ludes_%28Livre_I%29_-_VIII._La_Fille_aux_cheveux_de_lin_%28Marcelle_Meyer%2C_1956%29.flac/Claude_Debussy_-_Pr%C3%A9ludes_%28Livre_I%29_-_VIII._La_Fille_aux_cheveux_de_lin_%28Marcelle_Meyer%2C_1956%29.flac.mp3",
+    "duration": 119.7,
+    "license": "Public domain",
+    "artist": "Marcelle Meyer",
+    "page": "https://commons.wikimedia.org/wiki/File:Claude_Debussy_-_Pr%C3%A9ludes_(Livre_I)_-_VIII._La_Fille_aux_cheveux_de_lin_(Marcelle_Meyer,_1956).flac"
+   },
+   "intro": 0,
+   "spots": [
+    36,
+    50,
+    65,
+    79,
+    93
+   ]
+  },
+  {
+   "id": "satie-gymnopedie",
+   "composer": "satie",
+   "title": "Гимнопедия № 1",
+   "year": "1888",
+   "era": "modern",
+   "kind": "piano",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/90/Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg/Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg.mp3",
+    "duration": 183.6,
+    "license": "Public domain",
+    "artist": "Robin Alciatore",
+    "page": "https://commons.wikimedia.org/wiki/File:Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    55,
+    77,
+    99,
+    121,
+    143
+   ]
+  },
+  {
+   "id": "satie-gnossienne",
+   "composer": "satie",
+   "title": "Гносиенна № 1",
+   "year": "1890",
+   "era": "modern",
+   "kind": "piano",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/Satie_-_Gnossienne_1.ogg/Satie_-_Gnossienne_1.ogg.mp3",
+    "duration": 218,
+    "license": "Public domain",
+    "artist": "La Pianista",
+    "page": "https://commons.wikimedia.org/wiki/File:Satie_-_Gnossienne_1.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    65,
+    92,
+    118,
+    144,
+    170
+   ]
+  },
+  {
+   "id": "rachmaninoff-prelude",
+   "composer": "rachmaninoff",
+   "title": "Прелюдия до-диез минор",
+   "part": "Op. 3 № 2",
+   "year": "1892",
+   "era": "modern",
+   "kind": "piano",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/Pr%C3%A9lude_en_Do_di%C3%A8se_mineur_de_Rachmaninov_op._3_%28Morceaux_de_fantaisie%29.ogg/Pr%C3%A9lude_en_Do_di%C3%A8se_mineur_de_Rachmaninov_op._3_%28Morceaux_de_fantaisie%29.ogg.mp3",
+    "duration": 220.2,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9lude_en_Do_di%C3%A8se_mineur_de_Rachmaninov_op._3_(Morceaux_de_fantaisie).ogg"
+   },
+   "intro": 0,
+   "spots": [
+    66,
+    92,
+    119,
+    145,
+    172
+   ]
+  },
+  {
+   "id": "rachmaninoff-pc2",
+   "composer": "rachmaninoff",
+   "title": "Концерт для фортепиано № 2",
+   "part": "I. Moderato",
+   "year": "1901",
+   "era": "modern",
+   "kind": "orchestra",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/63/Sergei_Rachmaninoff_-_piano_concerto_no._2_in_c_minor%2C_op._18_-_i._moderato.ogg/Sergei_Rachmaninoff_-_piano_concerto_no._2_in_c_minor%2C_op._18_-_i._moderato.ogg.mp3",
+    "duration": 654.4,
+    "license": "Public domain",
+    "artist": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Sergei_Rachmaninoff_-_piano_concerto_no._2_in_c_minor,_op._18_-_i._moderato.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    196,
+    275,
+    353,
+    432,
+    510
+   ]
+  },
+  {
+   "id": "holst-mars",
+   "composer": "holst",
+   "title": "Планеты: Марс",
+   "part": "Вестник войны",
+   "year": "1916",
+   "era": "modern",
+   "kind": "orchestra",
+   "tier": 2,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/85/Holst-_mars.ogg/Holst-_mars.ogg.mp3",
+    "duration": 477.5,
+    "license": "Public domain",
+    "artist": "United States Air Force Band",
+    "page": "https://commons.wikimedia.org/wiki/File:Holst-_mars.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    143,
+    201,
+    258,
+    315,
+    372
+   ]
+  },
+  {
+   "id": "holst-jupiter",
+   "composer": "holst",
+   "title": "Планеты: Юпитер",
+   "part": "Приносящий радость",
+   "year": "1916",
+   "era": "modern",
+   "kind": "orchestra",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e2/Holst_The_Planets_Jupiter.ogg/Holst_The_Planets_Jupiter.ogg.mp3",
+    "duration": 480.3,
+    "license": "Public domain",
+    "artist": "United States Air Force Band",
+    "page": "https://commons.wikimedia.org/wiki/File:Holst_The_Planets_Jupiter.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    144,
+    202,
+    259,
+    317,
+    375
+   ]
+  },
+  {
+   "id": "ravel-bolero",
+   "composer": "ravel",
+   "title": "Болеро",
+   "year": "1928",
+   "era": "modern",
+   "kind": "orchestra",
+   "tier": 1,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bol%C3%A9ro_de_Ravel%2C_Orchestre_de_l%27Association_des_Concerts_Lamoureux%2C_1935%2C_1.mp3",
+    "duration": 255.9,
+    "license": "Public domain",
+    "artist": "Orchestre de l'Association des Concerts Lamoureux, запись 1935 г.",
+    "page": "https://commons.wikimedia.org/wiki/File:Bol%C3%A9ro_de_Ravel,_Orchestre_de_l%27Association_des_Concerts_Lamoureux,_1935,_1.mp3"
+   },
+   "intro": 0,
+   "spots": [
+    77,
+    107,
+    138,
+    169,
+    200
+   ]
+  },
+  {
+   "id": "ravel-pavane",
+   "composer": "ravel",
+   "title": "Павана на смерть инфанты",
+   "year": "1899",
+   "era": "modern",
+   "kind": "piano",
+   "tier": 3,
+   "rec": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/Maurice_Ravel_-_Th%C3%A9r%C3%A8se_Dussaut_-_Pavane_pour_une_infante_d%C3%A9funte.ogg/Maurice_Ravel_-_Th%C3%A9r%C3%A8se_Dussaut_-_Pavane_pour_une_infante_d%C3%A9funte.ogg.mp3",
+    "duration": 308.3,
+    "license": "CC BY-SA 2.0",
+    "artist": "Thérèse Dussaut",
+    "page": "https://commons.wikimedia.org/wiki/File:Maurice_Ravel_-_Th%C3%A9r%C3%A8se_Dussaut_-_Pavane_pour_une_infante_d%C3%A9funte.ogg"
+   },
+   "intro": 0,
+   "spots": [
+    92,
+    129,
+    166,
+    203,
+    240
+   ]
+  }
+ ]
+}
